@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ru" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Ошибка</title>
+</head>
+<body>
+<h1>Упс... Человека с таким id не нашлось в базе данных :(</h1>
+<form th:method="GET" th:action="@{/people}">
+  <input type="submit" value="Перейти к списку всех людей!"/>
+</form>
+</body>
+</html>
