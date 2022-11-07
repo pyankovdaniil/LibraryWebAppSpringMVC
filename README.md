@@ -1,4 +1,4 @@
-# Описание LibraryWebApp
+# LibraryWebApp
 
 # Приложение для библиотеки с использованием Spring Framework
 
@@ -64,36 +64,36 @@ create table book
 
 1. /people
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled.png)
+![Untitled](img/Untitled.png)
 
 1. /people/{id} (если человек еще не брал книг)
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled%201.png)
+![Untitled](img/Untitled%201.png)
 
 1. /people/{id}/edit (пример с неправильно введенным полем)
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled%202.png)
+![Untitled](img/Untitled%202.png)
 
 1. /people/new (пример с неправильно введенными полями
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled%203.png)
+![Untitled](img/Untitled%203.png)
 
 1. /books
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled%204.png)
+![Untitled](img/Untitled%204.png)
 
 1. /books/{id} (если книга свободна)
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled%205.png)
+![Untitled](img/Untitled%205.png)
 
 1. /books/{id}/edit (пример с неправильно введенными полями)
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled%206.png)
+![Untitled](img/Untitled%206.png)
 
 1. /people/{id} (если у человека есть книги)
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled%207.png)
+![Untitled](img/Untitled%207.png)
 
 1. /books/{id} (если у книги есть владелец)
 
-![Untitled](%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20LibraryWebApp%20e376b712bbdf4cda8dcb94461c2c44f9/Untitled%208.png)
+![Untitled](img/Untitled%208.png)
