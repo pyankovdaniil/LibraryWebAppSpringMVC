@@ -66,34 +66,34 @@ create table book
 
 ![Untitled](img/Untitled.png)
 
-1. /people/{id} (если человек еще не брал книг)
+2. /people/{id} (если человек еще не брал книг)
 
 ![Untitled](img/Untitled%201.png)
 
-1. /people/{id}/edit (пример с неправильно введенным полем)
+3. /people/{id}/edit (пример с неправильно введенным полем)
 
 ![Untitled](img/Untitled%202.png)
 
-1. /people/new (пример с неправильно введенными полями
+4. /people/new (пример с неправильно введенными полями
 
 ![Untitled](img/Untitled%203.png)
 
-1. /books
+5. /books
 
 ![Untitled](img/Untitled%204.png)
 
-1. /books/{id} (если книга свободна)
+6. /books/{id} (если книга свободна)
 
 ![Untitled](img/Untitled%205.png)
 
-1. /books/{id}/edit (пример с неправильно введенными полями)
+7. /books/{id}/edit (пример с неправильно введенными полями)
 
 ![Untitled](img/Untitled%206.png)
 
-1. /people/{id} (если у человека есть книги)
+8. /people/{id} (если у человека есть книги)
 
 ![Untitled](img/Untitled%207.png)
 
-1. /books/{id} (если у книги есть владелец)
+9. /books/{id} (если у книги есть владелец)
 
 ![Untitled](img/Untitled%208.png)
